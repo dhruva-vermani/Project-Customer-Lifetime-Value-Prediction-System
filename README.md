@@ -1,6 +1,13 @@
 # 📊 Customer Lifetime Value Prediction System using Machine Learning
 
 > An end-to-end Machine Learning and Business Intelligence project that predicts **Customer Lifetime Value (CLV)**, segments customers based on predicted future value, and visualizes actionable business insights through an interactive **Power BI Dashboard**.
+> # 📊 Customer Lifetime Value Prediction using Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-success)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
