@@ -1,7 +1,7 @@
-# 📊 Customer Lifetime Value Prediction System using Machine Learning
+#  Customer Lifetime Value Prediction System using Machine Learning
 
 > An end-to-end Machine Learning and Business Intelligence project that predicts **Customer Lifetime Value (CLV)**, segments customers based on predicted future value, and visualizes actionable business insights through an interactive **Power BI Dashboard**.
-> # 📊 Customer Lifetime Value Prediction using Machine Learning
+> #  Customer Lifetime Value Prediction using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![XGBoost](https://img.shields.io/badge/XGBoost-ML-success)
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Customer Lifetime Value (CLV) is a key business metric used to estimate the total revenue a customer is expected to generate over their relationship with a business.
 
@@ -19,7 +19,7 @@ This project builds a complete **Customer Lifetime Value Prediction System** usi
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * ✅ End-to-end Machine Learning pipeline
 * ✅ Data cleaning and preprocessing
@@ -33,14 +33,14 @@ This project builds a complete **Customer Lifetime Value Prediction System** usi
 
 ---
 
-# 📷 Dashboard Preview
+#  Dashboard Preview
 
 
 ![Customer Lifetime Value Dashboard](Dashboard/Dashboard%20screenshot.png)
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ### Programming
 
@@ -66,7 +66,7 @@ This project builds a complete **Customer Lifetime Value Prediction System** usi
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Customer_LTV_Project/
@@ -103,15 +103,15 @@ Customer_LTV_Project/
 
 ---
 
-# 📁 Folder Description
+#  Folder Description
 
-### 📂 Dashboard
+###  Dashboard
 
 Contains the Power BI dashboard and dashboard screenshots used for business reporting.
 
 ---
 
-### 📂 data
+###  data
 
 Contains the datasets used throughout the project.
 
@@ -122,31 +122,31 @@ Contains the datasets used throughout the project.
 
 ---
 
-### 📂 models
+###  models
 
 Contains the trained XGBoost model and saved feature columns used for prediction.
 
 ---
 
-### 📂 notebooks
+###  notebooks
 
 Contains the complete Jupyter Notebook implementing the entire machine learning pipeline.
 
 ---
 
-### 📂 Outputs
+###  Outputs
 
 Contains generated prediction files and visualization images.
 
 ---
 
-### 📂 Project_report
+###  Project_report
 
 Contains the final project report documenting the methodology and implementation.
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 ## 1. Data Collection
 
@@ -296,7 +296,7 @@ Potential enhancements include:
 
 ---
 
-# 📚 Learning Outcomes
+#  Learning Outcomes
 
 This project strengthened practical skills in:
 
@@ -311,7 +311,7 @@ This project strengthened practical skills in:
 
 ---
 
-# 👤 Author
+#  Author
 
 **Dhruva Vermani**
 
